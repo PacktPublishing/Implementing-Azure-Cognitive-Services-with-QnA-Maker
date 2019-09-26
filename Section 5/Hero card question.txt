@@ -1,0 +1,10 @@
+Packt book for building Bots
+
+Building Bots with Microsoft Bot Framework;
+Microsoft Bot Framework;
+Building Intelligent and smart conversational interfaces using Microsoft Bot framework;
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/5/7/5786-final.png;
+https://www.packtpub.com/application-development/building-bots-microsoft-bot-framework
+
+
+

@@ -1,0 +1,8 @@
+any Packt course to learn Azure Storage
+
+Learn Azure Storage SDK;
+Azure Storage SDK;
+Developing Cloud storage services with Azure Storage SDK;
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/v/1/v10121_png.png;
+https://www.youtube.com/watch?v=UdkwsWDdE5s&list=PLTgRMOcmRb3NK4dlldclJeNIu2Is_n7PC;
+https://www.packtpub.com/big-data-and-business-intelligence/learn-azure-storage-sdk-video
