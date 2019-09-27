@@ -1,6 +1,6 @@
-# Implementing-Azure-Cognitive-Services-for-Knowledge
-# -Learning-Vue.js-2.0
-This is the code repository for [Implementing Azure Cognitive Services with QnA Maker](https://www.packtpub.com/), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Implementing-Azure-Cognitive-Services-with-QnA-Maker
+
+This is the code repository for [Implementing Azure Cognitive Services with QnA Maker[Video]](https://www.packtpub.com/), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
 ## About the Video Course
 Azure Cognitive Services is a set of Azure APIs that makes it easy to enhance your applications. Azure Cognitive Services allows you to permeate your apps, websites, and bots with intelligent algorithms. QnA Maker is a cognitive offering by Microsoft, categorized under the language API.
